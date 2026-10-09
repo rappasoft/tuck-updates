@@ -4,12 +4,12 @@
         <title>Tuck</title>
         <item>
             <title>1.0</title>
-            <pubDate>Thu, 08 Oct 2026 22:09:16 -0400</pubDate>
+            <pubDate>Thu, 08 Oct 2026 23:42:21 -0400</pubDate>
             <link>https://rappasoft.com/apps/tuck</link>
-            <sparkle:version>10</sparkle:version>
+            <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/rappasoft/tuck-updates/releases/download/updates/Tuck-1.0-10.zip" length="1469547" type="application/octet-stream" sparkle:edSignature="kBQVc/vAQcV+UfcliPKb8hz8qPsNalaNKRfGocqmQ9SiWu63+FqTXMvioPlBm7BWig3EFGafuQiRwY7zWVsaDw=="/>
+            <enclosure url="https://github.com/rappasoft/tuck-updates/releases/download/updates/Tuck-1.0-14.zip" length="1545204" type="application/octet-stream" sparkle:edSignature="m0C2wmNSBPCw6LxZyhjq7JclSu4fUov7y2Y+tm/6hr+Yzgi3HUdsEUQc8IgjTsIAcAHvkr63m7RuSxjo7YxjAQ=="/>
         </item>
     </channel>
 </rss>
